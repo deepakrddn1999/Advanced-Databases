@@ -1,0 +1,2600 @@
+[{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a886"
+  },
+  "product_id": 1001,
+  "name": "E-Commerce Product 1",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 94.99,
+  "stock": 110,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a887"
+  },
+  "product_id": 1002,
+  "name": "E-Commerce Product 2",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 59,
+  "stock": 46,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a888"
+  },
+  "product_id": 1003,
+  "name": "E-Commerce Product 3",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 76,
+  "stock": 59,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a889"
+  },
+  "product_id": 1004,
+  "name": "E-Commerce Product 4",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 93,
+  "stock": 72,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88a"
+  },
+  "product_id": 1005,
+  "name": "E-Commerce Product 5",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 110,
+  "stock": 85,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88b"
+  },
+  "product_id": 1006,
+  "name": "E-Commerce Product 6",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 127,
+  "stock": 98,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88c"
+  },
+  "product_id": 1007,
+  "name": "E-Commerce Product 7",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 144,
+  "stock": 111,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88d"
+  },
+  "product_id": 1008,
+  "name": "E-Commerce Product 8",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 161,
+  "stock": 124,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88e"
+  },
+  "product_id": 1009,
+  "name": "E-Commerce Product 9",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 178,
+  "stock": 137,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a88f"
+  },
+  "product_id": 1010,
+  "name": "E-Commerce Product 10",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 195,
+  "stock": 150,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a890"
+  },
+  "product_id": 1011,
+  "name": "E-Commerce Product 11",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 212,
+  "stock": 163,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a891"
+  },
+  "product_id": 1012,
+  "name": "E-Commerce Product 12",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 229,
+  "stock": 176,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a892"
+  },
+  "product_id": 1013,
+  "name": "E-Commerce Product 13",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 246,
+  "stock": 189,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a893"
+  },
+  "product_id": 1014,
+  "name": "E-Commerce Product 14",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 263,
+  "stock": 22,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a894"
+  },
+  "product_id": 1015,
+  "name": "E-Commerce Product 15",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 280,
+  "stock": 35,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a895"
+  },
+  "product_id": 1016,
+  "name": "E-Commerce Product 16",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 297,
+  "stock": 48,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a896"
+  },
+  "product_id": 1017,
+  "name": "E-Commerce Product 17",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 314,
+  "stock": 61,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a897"
+  },
+  "product_id": 1018,
+  "name": "E-Commerce Product 18",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 331,
+  "stock": 74,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a898"
+  },
+  "product_id": 1019,
+  "name": "E-Commerce Product 19",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 348,
+  "stock": 87,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a899"
+  },
+  "product_id": 1020,
+  "name": "E-Commerce Product 20",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 365,
+  "stock": 100,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89a"
+  },
+  "product_id": 1021,
+  "name": "E-Commerce Product 21",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 382,
+  "stock": 113,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89b"
+  },
+  "product_id": 1022,
+  "name": "E-Commerce Product 22",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 399,
+  "stock": 126,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89c"
+  },
+  "product_id": 1023,
+  "name": "E-Commerce Product 23",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 416,
+  "stock": 139,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89d"
+  },
+  "product_id": 1024,
+  "name": "E-Commerce Product 24",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 433,
+  "stock": 152,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89e"
+  },
+  "product_id": 1025,
+  "name": "E-Commerce Product 25",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 450,
+  "stock": 165,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a89f"
+  },
+  "product_id": 1026,
+  "name": "E-Commerce Product 26",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 467,
+  "stock": 178,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a0"
+  },
+  "product_id": 1027,
+  "name": "E-Commerce Product 27",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 484,
+  "stock": 191,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a1"
+  },
+  "product_id": 1028,
+  "name": "E-Commerce Product 28",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 501,
+  "stock": 24,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a2"
+  },
+  "product_id": 1029,
+  "name": "E-Commerce Product 29",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 518,
+  "stock": 37,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a3"
+  },
+  "product_id": 1030,
+  "name": "E-Commerce Product 30",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 35,
+  "stock": 50,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a4"
+  },
+  "product_id": 1031,
+  "name": "E-Commerce Product 31",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 52,
+  "stock": 63,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a5"
+  },
+  "product_id": 1032,
+  "name": "E-Commerce Product 32",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 69,
+  "stock": 76,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a6"
+  },
+  "product_id": 1033,
+  "name": "E-Commerce Product 33",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 86,
+  "stock": 89,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a7"
+  },
+  "product_id": 1034,
+  "name": "E-Commerce Product 34",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 103,
+  "stock": 102,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a8"
+  },
+  "product_id": 1035,
+  "name": "E-Commerce Product 35",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 120,
+  "stock": 115,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8a9"
+  },
+  "product_id": 1036,
+  "name": "E-Commerce Product 36",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 137,
+  "stock": 128,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8aa"
+  },
+  "product_id": 1037,
+  "name": "E-Commerce Product 37",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 154,
+  "stock": 141,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ab"
+  },
+  "product_id": 1038,
+  "name": "E-Commerce Product 38",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 171,
+  "stock": 154,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ac"
+  },
+  "product_id": 1039,
+  "name": "E-Commerce Product 39",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 188,
+  "stock": 167,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ad"
+  },
+  "product_id": 1040,
+  "name": "E-Commerce Product 40",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 205,
+  "stock": 180,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ae"
+  },
+  "product_id": 1041,
+  "name": "E-Commerce Product 41",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 222,
+  "stock": 193,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8af"
+  },
+  "product_id": 1042,
+  "name": "E-Commerce Product 42",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 239,
+  "stock": 26,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b0"
+  },
+  "product_id": 1043,
+  "name": "E-Commerce Product 43",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 256,
+  "stock": 39,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b1"
+  },
+  "product_id": 1044,
+  "name": "E-Commerce Product 44",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 273,
+  "stock": 52,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b2"
+  },
+  "product_id": 1045,
+  "name": "E-Commerce Product 45",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 290,
+  "stock": 65,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b3"
+  },
+  "product_id": 1046,
+  "name": "E-Commerce Product 46",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 307,
+  "stock": 78,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b4"
+  },
+  "product_id": 1047,
+  "name": "E-Commerce Product 47",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 324,
+  "stock": 91,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b5"
+  },
+  "product_id": 1048,
+  "name": "E-Commerce Product 48",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 341,
+  "stock": 104,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b6"
+  },
+  "product_id": 1049,
+  "name": "E-Commerce Product 49",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 358,
+  "stock": 117,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b7"
+  },
+  "product_id": 1050,
+  "name": "E-Commerce Product 50",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 375,
+  "stock": 130,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b8"
+  },
+  "product_id": 1051,
+  "name": "E-Commerce Product 51",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 392,
+  "stock": 143,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8b9"
+  },
+  "product_id": 1052,
+  "name": "E-Commerce Product 52",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 409,
+  "stock": 156,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ba"
+  },
+  "product_id": 1053,
+  "name": "E-Commerce Product 53",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 426,
+  "stock": 169,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8bb"
+  },
+  "product_id": 1054,
+  "name": "E-Commerce Product 54",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 443,
+  "stock": 182,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8bc"
+  },
+  "product_id": 1055,
+  "name": "E-Commerce Product 55",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 460,
+  "stock": 195,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8bd"
+  },
+  "product_id": 1056,
+  "name": "E-Commerce Product 56",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 477,
+  "stock": 28,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8be"
+  },
+  "product_id": 1057,
+  "name": "E-Commerce Product 57",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 494,
+  "stock": 41,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8bf"
+  },
+  "product_id": 1058,
+  "name": "E-Commerce Product 58",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 511,
+  "stock": 54,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c0"
+  },
+  "product_id": 1059,
+  "name": "E-Commerce Product 59",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 28,
+  "stock": 67,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c1"
+  },
+  "product_id": 1060,
+  "name": "E-Commerce Product 60",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 45,
+  "stock": 80,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c2"
+  },
+  "product_id": 1061,
+  "name": "E-Commerce Product 61",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 62,
+  "stock": 93,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c3"
+  },
+  "product_id": 1062,
+  "name": "E-Commerce Product 62",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 79,
+  "stock": 106,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c4"
+  },
+  "product_id": 1063,
+  "name": "E-Commerce Product 63",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 96,
+  "stock": 119,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c5"
+  },
+  "product_id": 1064,
+  "name": "E-Commerce Product 64",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 113,
+  "stock": 132,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c6"
+  },
+  "product_id": 1065,
+  "name": "E-Commerce Product 65",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 130,
+  "stock": 145,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c7"
+  },
+  "product_id": 1066,
+  "name": "E-Commerce Product 66",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 147,
+  "stock": 158,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c8"
+  },
+  "product_id": 1067,
+  "name": "E-Commerce Product 67",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 164,
+  "stock": 171,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8c9"
+  },
+  "product_id": 1068,
+  "name": "E-Commerce Product 68",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 181,
+  "stock": 184,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ca"
+  },
+  "product_id": 1069,
+  "name": "E-Commerce Product 69",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 198,
+  "stock": 197,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8cb"
+  },
+  "product_id": 1070,
+  "name": "E-Commerce Product 70",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 215,
+  "stock": 30,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8cc"
+  },
+  "product_id": 1071,
+  "name": "E-Commerce Product 71",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 232,
+  "stock": 43,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8cd"
+  },
+  "product_id": 1072,
+  "name": "E-Commerce Product 72",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 249,
+  "stock": 56,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8ce"
+  },
+  "product_id": 1073,
+  "name": "E-Commerce Product 73",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 266,
+  "stock": 69,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8cf"
+  },
+  "product_id": 1074,
+  "name": "E-Commerce Product 74",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 283,
+  "stock": 82,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d0"
+  },
+  "product_id": 1075,
+  "name": "E-Commerce Product 75",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 300,
+  "stock": 95,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d1"
+  },
+  "product_id": 1076,
+  "name": "E-Commerce Product 76",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 317,
+  "stock": 108,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d2"
+  },
+  "product_id": 1077,
+  "name": "E-Commerce Product 77",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 334,
+  "stock": 121,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d3"
+  },
+  "product_id": 1078,
+  "name": "E-Commerce Product 78",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 351,
+  "stock": 134,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d4"
+  },
+  "product_id": 1079,
+  "name": "E-Commerce Product 79",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 368,
+  "stock": 147,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d5"
+  },
+  "product_id": 1080,
+  "name": "E-Commerce Product 80",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 385,
+  "stock": 160,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d6"
+  },
+  "product_id": 1081,
+  "name": "E-Commerce Product 81",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 402,
+  "stock": 173,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d7"
+  },
+  "product_id": 1082,
+  "name": "E-Commerce Product 82",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 419,
+  "stock": 186,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d8"
+  },
+  "product_id": 1083,
+  "name": "E-Commerce Product 83",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 436,
+  "stock": 199,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8d9"
+  },
+  "product_id": 1084,
+  "name": "E-Commerce Product 84",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 453,
+  "stock": 32,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8da"
+  },
+  "product_id": 1085,
+  "name": "E-Commerce Product 85",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 470,
+  "stock": 45,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8db"
+  },
+  "product_id": 1086,
+  "name": "E-Commerce Product 86",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 487,
+  "stock": 58,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8dc"
+  },
+  "product_id": 1087,
+  "name": "E-Commerce Product 87",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 504,
+  "stock": 71,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8dd"
+  },
+  "product_id": 1088,
+  "name": "E-Commerce Product 88",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 521,
+  "stock": 84,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8de"
+  },
+  "product_id": 1089,
+  "name": "E-Commerce Product 89",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 38,
+  "stock": 97,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8df"
+  },
+  "product_id": 1090,
+  "name": "E-Commerce Product 90",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 55,
+  "stock": 110,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e0"
+  },
+  "product_id": 1091,
+  "name": "E-Commerce Product 91",
+  "brand": "Brand 2",
+  "category_id": 1,
+  "category": "Category 1",
+  "price": 72,
+  "stock": 123,
+  "specifications": {
+    "colour": "White",
+    "weight": "0.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-1"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e1"
+  },
+  "product_id": 1092,
+  "name": "E-Commerce Product 92",
+  "brand": "Brand 3",
+  "category_id": 2,
+  "category": "Category 2",
+  "price": 89,
+  "stock": 136,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "1 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-2"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e2"
+  },
+  "product_id": 1093,
+  "name": "E-Commerce Product 93",
+  "brand": "Brand 4",
+  "category_id": 3,
+  "category": "Category 3",
+  "price": 106,
+  "stock": 149,
+  "specifications": {
+    "colour": "Red",
+    "weight": "1.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-3"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e3"
+  },
+  "product_id": 1094,
+  "name": "E-Commerce Product 94",
+  "brand": "Brand 5",
+  "category_id": 4,
+  "category": "Category 4",
+  "price": 123,
+  "stock": 162,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "1.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-4"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e4"
+  },
+  "product_id": 1095,
+  "name": "E-Commerce Product 95",
+  "brand": "Brand 6",
+  "category_id": 5,
+  "category": "Category 5",
+  "price": 140,
+  "stock": 175,
+  "specifications": {
+    "colour": "Black",
+    "weight": "1.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-5"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e5"
+  },
+  "product_id": 1096,
+  "name": "E-Commerce Product 96",
+  "brand": "Brand 7",
+  "category_id": 6,
+  "category": "Category 6",
+  "price": 157,
+  "stock": 188,
+  "specifications": {
+    "colour": "White",
+    "weight": "2 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-6"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e6"
+  },
+  "product_id": 1097,
+  "name": "E-Commerce Product 97",
+  "brand": "Brand 8",
+  "category_id": 7,
+  "category": "Category 7",
+  "price": 174,
+  "stock": 21,
+  "specifications": {
+    "colour": "Blue",
+    "weight": "2.25 kg",
+    "warranty": "2 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-7"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e7"
+  },
+  "product_id": 1098,
+  "name": "E-Commerce Product 98",
+  "brand": "Brand 9",
+  "category_id": 8,
+  "category": "Category 8",
+  "price": 191,
+  "stock": 34,
+  "specifications": {
+    "colour": "Red",
+    "weight": "2.5 kg",
+    "warranty": "3 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-8"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e8"
+  },
+  "product_id": 1099,
+  "name": "E-Commerce Product 99",
+  "brand": "Brand 10",
+  "category_id": 9,
+  "category": "Category 9",
+  "price": 208,
+  "stock": 47,
+  "specifications": {
+    "colour": "Silver",
+    "weight": "2.75 kg",
+    "warranty": "4 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-9"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54bc802f6e0c3386a8e9"
+  },
+  "product_id": 1100,
+  "name": "E-Commerce Product 100",
+  "brand": "Brand 1",
+  "category_id": 10,
+  "category": "Category 10",
+  "price": 225,
+  "stock": 60,
+  "specifications": {
+    "colour": "Black",
+    "weight": "0.5 kg",
+    "warranty": "1 years"
+  },
+  "tags": [
+    "ecommerce",
+    "product",
+    "category-10"
+  ],
+  "active": true,
+  "created_at": {
+    "$date": "2026-09-16T08:35:08.900Z"
+  }
+}]

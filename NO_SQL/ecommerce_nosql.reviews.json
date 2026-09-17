@@ -1,0 +1,2250 @@
+[{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ea"
+  },
+  "review_id": 1,
+  "product_id": 1001,
+  "customer_id": 1,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-09-15T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8eb"
+  },
+  "review_id": 2,
+  "product_id": 1002,
+  "customer_id": 2,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-09-14T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ec"
+  },
+  "review_id": 3,
+  "product_id": 1003,
+  "customer_id": 3,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-09-13T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ed"
+  },
+  "review_id": 4,
+  "product_id": 1004,
+  "customer_id": 4,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-09-12T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ee"
+  },
+  "review_id": 5,
+  "product_id": 1005,
+  "customer_id": 5,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-09-11T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ef"
+  },
+  "review_id": 6,
+  "product_id": 1006,
+  "customer_id": 6,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-09-10T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f0"
+  },
+  "review_id": 7,
+  "product_id": 1007,
+  "customer_id": 7,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-09-09T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f1"
+  },
+  "review_id": 8,
+  "product_id": 1008,
+  "customer_id": 8,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-09-08T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f2"
+  },
+  "review_id": 9,
+  "product_id": 1009,
+  "customer_id": 9,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-09-07T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f3"
+  },
+  "review_id": 10,
+  "product_id": 1010,
+  "customer_id": 10,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-09-06T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f4"
+  },
+  "review_id": 11,
+  "product_id": 1011,
+  "customer_id": 11,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-09-05T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f5"
+  },
+  "review_id": 12,
+  "product_id": 1012,
+  "customer_id": 12,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-09-04T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f6"
+  },
+  "review_id": 13,
+  "product_id": 1013,
+  "customer_id": 13,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-09-03T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f7"
+  },
+  "review_id": 14,
+  "product_id": 1014,
+  "customer_id": 14,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-09-02T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f8"
+  },
+  "review_id": 15,
+  "product_id": 1015,
+  "customer_id": 15,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-09-01T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8f9"
+  },
+  "review_id": 16,
+  "product_id": 1016,
+  "customer_id": 16,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-08-31T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8fa"
+  },
+  "review_id": 17,
+  "product_id": 1017,
+  "customer_id": 17,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-08-30T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8fb"
+  },
+  "review_id": 18,
+  "product_id": 1018,
+  "customer_id": 18,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-08-29T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8fc"
+  },
+  "review_id": 19,
+  "product_id": 1019,
+  "customer_id": 19,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-08-28T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8fd"
+  },
+  "review_id": 20,
+  "product_id": 1020,
+  "customer_id": 20,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-08-27T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8fe"
+  },
+  "review_id": 21,
+  "product_id": 1021,
+  "customer_id": 21,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-08-26T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a8ff"
+  },
+  "review_id": 22,
+  "product_id": 1022,
+  "customer_id": 22,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-08-25T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a900"
+  },
+  "review_id": 23,
+  "product_id": 1023,
+  "customer_id": 23,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-08-24T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a901"
+  },
+  "review_id": 24,
+  "product_id": 1024,
+  "customer_id": 24,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-08-23T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a902"
+  },
+  "review_id": 25,
+  "product_id": 1025,
+  "customer_id": 25,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-08-22T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a903"
+  },
+  "review_id": 26,
+  "product_id": 1026,
+  "customer_id": 26,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-08-21T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a904"
+  },
+  "review_id": 27,
+  "product_id": 1027,
+  "customer_id": 27,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-08-20T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a905"
+  },
+  "review_id": 28,
+  "product_id": 1028,
+  "customer_id": 28,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-08-19T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a906"
+  },
+  "review_id": 29,
+  "product_id": 1029,
+  "customer_id": 29,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-08-18T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a907"
+  },
+  "review_id": 30,
+  "product_id": 1030,
+  "customer_id": 30,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-08-17T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a908"
+  },
+  "review_id": 31,
+  "product_id": 1031,
+  "customer_id": 31,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-08-16T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a909"
+  },
+  "review_id": 32,
+  "product_id": 1032,
+  "customer_id": 32,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-08-15T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90a"
+  },
+  "review_id": 33,
+  "product_id": 1033,
+  "customer_id": 33,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-08-14T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90b"
+  },
+  "review_id": 34,
+  "product_id": 1034,
+  "customer_id": 34,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-08-13T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90c"
+  },
+  "review_id": 35,
+  "product_id": 1035,
+  "customer_id": 35,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-08-12T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90d"
+  },
+  "review_id": 36,
+  "product_id": 1036,
+  "customer_id": 36,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-08-11T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90e"
+  },
+  "review_id": 37,
+  "product_id": 1037,
+  "customer_id": 37,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-08-10T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a90f"
+  },
+  "review_id": 38,
+  "product_id": 1038,
+  "customer_id": 38,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-08-09T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a910"
+  },
+  "review_id": 39,
+  "product_id": 1039,
+  "customer_id": 39,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-08-08T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a911"
+  },
+  "review_id": 40,
+  "product_id": 1040,
+  "customer_id": 40,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-08-07T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a912"
+  },
+  "review_id": 41,
+  "product_id": 1041,
+  "customer_id": 41,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-08-06T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a913"
+  },
+  "review_id": 42,
+  "product_id": 1042,
+  "customer_id": 42,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-08-05T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a914"
+  },
+  "review_id": 43,
+  "product_id": 1043,
+  "customer_id": 43,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-08-04T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a915"
+  },
+  "review_id": 44,
+  "product_id": 1044,
+  "customer_id": 44,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-08-03T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a916"
+  },
+  "review_id": 45,
+  "product_id": 1045,
+  "customer_id": 45,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-08-02T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a917"
+  },
+  "review_id": 46,
+  "product_id": 1046,
+  "customer_id": 46,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-08-01T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a918"
+  },
+  "review_id": 47,
+  "product_id": 1047,
+  "customer_id": 47,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-07-31T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a919"
+  },
+  "review_id": 48,
+  "product_id": 1048,
+  "customer_id": 48,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-07-30T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91a"
+  },
+  "review_id": 49,
+  "product_id": 1049,
+  "customer_id": 49,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-07-29T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91b"
+  },
+  "review_id": 50,
+  "product_id": 1050,
+  "customer_id": 50,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-07-28T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91c"
+  },
+  "review_id": 51,
+  "product_id": 1051,
+  "customer_id": 51,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-07-27T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91d"
+  },
+  "review_id": 52,
+  "product_id": 1052,
+  "customer_id": 52,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-07-26T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91e"
+  },
+  "review_id": 53,
+  "product_id": 1053,
+  "customer_id": 53,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-07-25T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a91f"
+  },
+  "review_id": 54,
+  "product_id": 1054,
+  "customer_id": 54,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-07-24T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a920"
+  },
+  "review_id": 55,
+  "product_id": 1055,
+  "customer_id": 55,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-07-23T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a921"
+  },
+  "review_id": 56,
+  "product_id": 1056,
+  "customer_id": 56,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-07-22T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a922"
+  },
+  "review_id": 57,
+  "product_id": 1057,
+  "customer_id": 57,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-07-21T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a923"
+  },
+  "review_id": 58,
+  "product_id": 1058,
+  "customer_id": 58,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-07-20T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a924"
+  },
+  "review_id": 59,
+  "product_id": 1059,
+  "customer_id": 59,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-07-19T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a925"
+  },
+  "review_id": 60,
+  "product_id": 1060,
+  "customer_id": 60,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-07-18T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a926"
+  },
+  "review_id": 61,
+  "product_id": 1061,
+  "customer_id": 61,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-07-17T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a927"
+  },
+  "review_id": 62,
+  "product_id": 1062,
+  "customer_id": 62,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-07-16T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a928"
+  },
+  "review_id": 63,
+  "product_id": 1063,
+  "customer_id": 63,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-07-15T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a929"
+  },
+  "review_id": 64,
+  "product_id": 1064,
+  "customer_id": 64,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-07-14T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92a"
+  },
+  "review_id": 65,
+  "product_id": 1065,
+  "customer_id": 65,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-07-13T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92b"
+  },
+  "review_id": 66,
+  "product_id": 1066,
+  "customer_id": 66,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-07-12T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92c"
+  },
+  "review_id": 67,
+  "product_id": 1067,
+  "customer_id": 67,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-07-11T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92d"
+  },
+  "review_id": 68,
+  "product_id": 1068,
+  "customer_id": 68,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-07-10T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92e"
+  },
+  "review_id": 69,
+  "product_id": 1069,
+  "customer_id": 69,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-07-09T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a92f"
+  },
+  "review_id": 70,
+  "product_id": 1070,
+  "customer_id": 70,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-07-08T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a930"
+  },
+  "review_id": 71,
+  "product_id": 1071,
+  "customer_id": 71,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-07-07T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a931"
+  },
+  "review_id": 72,
+  "product_id": 1072,
+  "customer_id": 72,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-07-06T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a932"
+  },
+  "review_id": 73,
+  "product_id": 1073,
+  "customer_id": 73,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-07-05T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a933"
+  },
+  "review_id": 74,
+  "product_id": 1074,
+  "customer_id": 74,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-07-04T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a934"
+  },
+  "review_id": 75,
+  "product_id": 1075,
+  "customer_id": 75,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-07-03T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a935"
+  },
+  "review_id": 76,
+  "product_id": 1076,
+  "customer_id": 76,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-07-02T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a936"
+  },
+  "review_id": 77,
+  "product_id": 1077,
+  "customer_id": 77,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-07-01T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a937"
+  },
+  "review_id": 78,
+  "product_id": 1078,
+  "customer_id": 78,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-06-30T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a938"
+  },
+  "review_id": 79,
+  "product_id": 1079,
+  "customer_id": 79,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-06-29T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a939"
+  },
+  "review_id": 80,
+  "product_id": 1080,
+  "customer_id": 80,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-06-28T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93a"
+  },
+  "review_id": 81,
+  "product_id": 1081,
+  "customer_id": 81,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-06-27T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93b"
+  },
+  "review_id": 82,
+  "product_id": 1082,
+  "customer_id": 82,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-06-26T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93c"
+  },
+  "review_id": 83,
+  "product_id": 1083,
+  "customer_id": 83,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-06-25T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93d"
+  },
+  "review_id": 84,
+  "product_id": 1084,
+  "customer_id": 84,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-06-24T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93e"
+  },
+  "review_id": 85,
+  "product_id": 1085,
+  "customer_id": 85,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-06-23T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a93f"
+  },
+  "review_id": 86,
+  "product_id": 1086,
+  "customer_id": 86,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-06-22T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a940"
+  },
+  "review_id": 87,
+  "product_id": 1087,
+  "customer_id": 87,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-06-21T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a941"
+  },
+  "review_id": 88,
+  "product_id": 1088,
+  "customer_id": 88,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-06-20T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a942"
+  },
+  "review_id": 89,
+  "product_id": 1089,
+  "customer_id": 89,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-06-19T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a943"
+  },
+  "review_id": 90,
+  "product_id": 1090,
+  "customer_id": 90,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-06-18T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a944"
+  },
+  "review_id": 91,
+  "product_id": 1091,
+  "customer_id": 91,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-06-17T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a945"
+  },
+  "review_id": 92,
+  "product_id": 1092,
+  "customer_id": 92,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-06-16T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a946"
+  },
+  "review_id": 93,
+  "product_id": 1093,
+  "customer_id": 93,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-06-15T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a947"
+  },
+  "review_id": 94,
+  "product_id": 1094,
+  "customer_id": 94,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-06-14T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a948"
+  },
+  "review_id": 95,
+  "product_id": 1095,
+  "customer_id": 95,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-06-13T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a949"
+  },
+  "review_id": 96,
+  "product_id": 1096,
+  "customer_id": 96,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-06-12T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94a"
+  },
+  "review_id": 97,
+  "product_id": 1097,
+  "customer_id": 97,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-06-11T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94b"
+  },
+  "review_id": 98,
+  "product_id": 1098,
+  "customer_id": 98,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-06-10T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94c"
+  },
+  "review_id": 99,
+  "product_id": 1099,
+  "customer_id": 99,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-06-09T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94d"
+  },
+  "review_id": 100,
+  "product_id": 1100,
+  "customer_id": 100,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-06-08T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94e"
+  },
+  "review_id": 101,
+  "product_id": 1001,
+  "customer_id": 1,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-06-07T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a94f"
+  },
+  "review_id": 102,
+  "product_id": 1002,
+  "customer_id": 2,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-06-06T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a950"
+  },
+  "review_id": 103,
+  "product_id": 1003,
+  "customer_id": 3,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-06-05T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a951"
+  },
+  "review_id": 104,
+  "product_id": 1004,
+  "customer_id": 4,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-06-04T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a952"
+  },
+  "review_id": 105,
+  "product_id": 1005,
+  "customer_id": 5,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-06-03T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a953"
+  },
+  "review_id": 106,
+  "product_id": 1006,
+  "customer_id": 6,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-06-02T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a954"
+  },
+  "review_id": 107,
+  "product_id": 1007,
+  "customer_id": 7,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-06-01T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a955"
+  },
+  "review_id": 108,
+  "product_id": 1008,
+  "customer_id": 8,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-05-31T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a956"
+  },
+  "review_id": 109,
+  "product_id": 1009,
+  "customer_id": 9,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-05-30T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a957"
+  },
+  "review_id": 110,
+  "product_id": 1010,
+  "customer_id": 10,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-05-29T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a958"
+  },
+  "review_id": 111,
+  "product_id": 1011,
+  "customer_id": 11,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-05-28T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a959"
+  },
+  "review_id": 112,
+  "product_id": 1012,
+  "customer_id": 12,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-05-27T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95a"
+  },
+  "review_id": 113,
+  "product_id": 1013,
+  "customer_id": 13,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-05-26T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95b"
+  },
+  "review_id": 114,
+  "product_id": 1014,
+  "customer_id": 14,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-05-25T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95c"
+  },
+  "review_id": 115,
+  "product_id": 1015,
+  "customer_id": 15,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-05-24T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95d"
+  },
+  "review_id": 116,
+  "product_id": 1016,
+  "customer_id": 16,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-05-23T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95e"
+  },
+  "review_id": 117,
+  "product_id": 1017,
+  "customer_id": 17,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-05-22T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a95f"
+  },
+  "review_id": 118,
+  "product_id": 1018,
+  "customer_id": 18,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-05-21T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a960"
+  },
+  "review_id": 119,
+  "product_id": 1019,
+  "customer_id": 19,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-05-20T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a961"
+  },
+  "review_id": 120,
+  "product_id": 1020,
+  "customer_id": 20,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-05-19T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a962"
+  },
+  "review_id": 121,
+  "product_id": 1021,
+  "customer_id": 21,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-05-18T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a963"
+  },
+  "review_id": 122,
+  "product_id": 1022,
+  "customer_id": 22,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-05-17T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a964"
+  },
+  "review_id": 123,
+  "product_id": 1023,
+  "customer_id": 23,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-05-16T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a965"
+  },
+  "review_id": 124,
+  "product_id": 1024,
+  "customer_id": 24,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-05-15T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a966"
+  },
+  "review_id": 125,
+  "product_id": 1025,
+  "customer_id": 25,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-05-14T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a967"
+  },
+  "review_id": 126,
+  "product_id": 1026,
+  "customer_id": 26,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 1,
+  "review_date": {
+    "$date": "2026-05-13T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a968"
+  },
+  "review_id": 127,
+  "product_id": 1027,
+  "customer_id": 27,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 2,
+  "review_date": {
+    "$date": "2026-05-12T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a969"
+  },
+  "review_id": 128,
+  "product_id": 1028,
+  "customer_id": 28,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 3,
+  "review_date": {
+    "$date": "2026-05-11T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96a"
+  },
+  "review_id": 129,
+  "product_id": 1029,
+  "customer_id": 29,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 4,
+  "review_date": {
+    "$date": "2026-05-10T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96b"
+  },
+  "review_id": 130,
+  "product_id": 1030,
+  "customer_id": 30,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 5,
+  "review_date": {
+    "$date": "2026-05-09T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96c"
+  },
+  "review_id": 131,
+  "product_id": 1031,
+  "customer_id": 31,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 6,
+  "review_date": {
+    "$date": "2026-05-08T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96d"
+  },
+  "review_id": 132,
+  "product_id": 1032,
+  "customer_id": 32,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 7,
+  "review_date": {
+    "$date": "2026-05-07T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96e"
+  },
+  "review_id": 133,
+  "product_id": 1033,
+  "customer_id": 33,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 8,
+  "review_date": {
+    "$date": "2026-05-06T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a96f"
+  },
+  "review_id": 134,
+  "product_id": 1034,
+  "customer_id": 34,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 9,
+  "review_date": {
+    "$date": "2026-05-05T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a970"
+  },
+  "review_id": 135,
+  "product_id": 1035,
+  "customer_id": 35,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 10,
+  "review_date": {
+    "$date": "2026-05-04T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a971"
+  },
+  "review_id": 136,
+  "product_id": 1036,
+  "customer_id": 36,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 11,
+  "review_date": {
+    "$date": "2026-05-03T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a972"
+  },
+  "review_id": 137,
+  "product_id": 1037,
+  "customer_id": 37,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 12,
+  "review_date": {
+    "$date": "2026-05-02T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a973"
+  },
+  "review_id": 138,
+  "product_id": 1038,
+  "customer_id": 38,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 13,
+  "review_date": {
+    "$date": "2026-05-01T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a974"
+  },
+  "review_id": 139,
+  "product_id": 1039,
+  "customer_id": 39,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 14,
+  "review_date": {
+    "$date": "2026-04-30T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a975"
+  },
+  "review_id": 140,
+  "product_id": 1040,
+  "customer_id": 40,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 15,
+  "review_date": {
+    "$date": "2026-04-29T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a976"
+  },
+  "review_id": 141,
+  "product_id": 1041,
+  "customer_id": 41,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 16,
+  "review_date": {
+    "$date": "2026-04-28T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a977"
+  },
+  "review_id": 142,
+  "product_id": 1042,
+  "customer_id": 42,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 17,
+  "review_date": {
+    "$date": "2026-04-27T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a978"
+  },
+  "review_id": 143,
+  "product_id": 1043,
+  "customer_id": 43,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 18,
+  "review_date": {
+    "$date": "2026-04-26T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a979"
+  },
+  "review_id": 144,
+  "product_id": 1044,
+  "customer_id": 44,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 19,
+  "review_date": {
+    "$date": "2026-04-25T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97a"
+  },
+  "review_id": 145,
+  "product_id": 1045,
+  "customer_id": 45,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 20,
+  "review_date": {
+    "$date": "2026-04-24T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97b"
+  },
+  "review_id": 146,
+  "product_id": 1046,
+  "customer_id": 46,
+  "rating": 2,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 21,
+  "review_date": {
+    "$date": "2026-04-23T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97c"
+  },
+  "review_id": 147,
+  "product_id": 1047,
+  "customer_id": 47,
+  "rating": 3,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 22,
+  "review_date": {
+    "$date": "2026-04-22T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97d"
+  },
+  "review_id": 148,
+  "product_id": 1048,
+  "customer_id": 48,
+  "rating": 4,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 23,
+  "review_date": {
+    "$date": "2026-04-21T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97e"
+  },
+  "review_id": 149,
+  "product_id": 1049,
+  "customer_id": 49,
+  "rating": 5,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": true,
+  "helpful_votes": 24,
+  "review_date": {
+    "$date": "2026-04-20T08:35:34.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aaa54d6802f6e0c3386a97f"
+  },
+  "review_id": 150,
+  "product_id": 1050,
+  "customer_id": 50,
+  "rating": 1,
+  "review_text": "This product provided a satisfactory shopping experience.",
+  "verified_purchase": false,
+  "helpful_votes": 0,
+  "review_date": {
+    "$date": "2026-04-19T08:35:34.877Z"
+  }
+}]
